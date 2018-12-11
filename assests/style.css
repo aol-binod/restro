@@ -1,0 +1,59 @@
+*{
+	margin:0px;
+	padding:0px;
+
+}
+p{
+	font-size:20px !important;
+}
+body{
+	background:url('images/main.jpg') no-repeat;
+	background-position:20px 0px 0px 0px;
+	background-size:100%;
+	background-attachment:fixed;
+	color:#fff;
+
+}
+
+.main-wrapper{
+	background:rgba(0,0,0,0.6);
+    color:#fff;
+}
+.footer-buttom{
+	background:rgba(0,0,0,0.8);
+}
+ .affix {
+      top: 0;
+      width: 100%;
+      z-index: 9999 !important;
+  }
+.cook{
+	background:url('images/cook.png') no-repeat;
+	
+	
+	
+	
+}
+.waiter{
+	background:url('images/waiter.jpg') no-repeat;
+	
+}
+.bg-transparent{
+	background:rgba(0,0,0,0.7);
+	padding:40px 20px;
+
+}
+img{
+
+}
+footer{
+	display:block;
+}
+.menu-list{
+	width:400px;
+	margin:0 auto;
+}
+.form-wrapper{
+	width:450px;
+	margin:0 auto;
+}
